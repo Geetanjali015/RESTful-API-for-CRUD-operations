@@ -1,5 +1,5 @@
-A single RESTful API for CRUD operations using Django framework 
-< br / BAckend Project >
+A single RESTful API for CRUD operations using Django framework\
+Backend Project 
 
 
 
